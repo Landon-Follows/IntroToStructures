@@ -1,10 +1,4 @@
-/*:
-# Simplest Example
  
- In a prior class we defined [a function that finds the distance between two points](https://ln2.sync.com/dl/91fb53920/jnvp6vqv-mkjg8p5p-q4jifd4a-8ieji2in/view/image/10167346380008):
- 
- */
-
 import Foundation
 
 // Define a function to find the distance between two points

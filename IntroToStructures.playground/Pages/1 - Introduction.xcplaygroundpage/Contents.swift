@@ -27,9 +27,13 @@ let grades = [87.5, 95.2, 78.4, 85.7, 92.3, 87.4, 92.1, 72.1]
  One could then calculate your current overall average by writing this code – run the playground to try it out:
  */
 var runningTotal = 0.0
+
 for grade in grades {
+    
     runningTotal += grade
+    
 }
+
 let currentOverallAverage = runningTotal / Double(grades.count)
 /*:
  So what advantages do structures bring?
